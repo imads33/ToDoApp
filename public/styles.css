@@ -26,8 +26,12 @@ body {
   transition-duration: 0.4s;
 }
 
-.btn:hover {
+#add:hover {
   background-color: #008CBA;
+  color: white;
+}
+#top:hover {
+  background-color: #f44336;
   color: white;
 }
 
