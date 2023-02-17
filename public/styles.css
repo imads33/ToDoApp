@@ -16,9 +16,10 @@ body {
 }
 
 .btn{
+  padding: 10px 24px;
   background-color: white;
   color: black;
-  border: 2px solid #008CBA;
+  border: 2px solid black;
 }
 
 .btn {
